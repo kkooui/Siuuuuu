@@ -1,6 +1,6 @@
 # Siuuuuu
 ตั้งใจเรียน
-วิธีติดตั้ง Maltego on ubuntu  
+วิธีติดตั้ง Maltego only!! ubuntu  
 Open Terminal
 1.Dowload Maltego  from https://www.maltego.com/downloads/ เลือกนามสกุลไฟล์ .deb เป็นของ linux
 2.ไป path ที่โหลด (Ex. /home/henry/Downloads/) maltego ไว้ และใช้คำสั่ง sudo dpkg -i Maltego.vxxxxxx(Version.) 
